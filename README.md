@@ -6,11 +6,11 @@
 https://www.markdownguide.org/cheat-sheet/
 
 ## Estilo de texto
-** Estilo en Negritas **
+**Estilo en Negritas**
 * Estilo en cursiva* 
 --Esto es un error--
 **Este_es_Importante**
-*** Esto es muy importante ***
+***Esto es muy importante***
 
 ## Emojis
 ☣️
@@ -28,23 +28,29 @@ https://www.markdownguide.org/cheat-sheet/
 ## Imagen
 [GitHub Pages](https://i.pinimg.com/originals/e4/99/33/e4993378c11517cb7406d6eedafd169a.jpg)
 
-##Listas
-**Comida Favorita **
+## Listas
+**Comida Favorita**
 - Chilaquiles
 - Pechuga de Pollo
 - Pizza
 
-** Peliculas Favoritas **
+**Peliculas Favoritas**
 1. Avengers
 2. Un lugar en silencio
 3. Anabelle 3
 
-** Listas de tareas ** 
-[X] 739
-[] 😲
-[] *** Tarea  ***
+## Listas anidadas
+- Primera
+  - Segunda 
+    - Tercera
+  
 
-##Ocultar contenido
+**Listas de tareas** 
+[X] Estudiar
+[] Jugar
+[] ***Tarea***
+
+## Ocultar contenido
 <!-- Este contenido esta oculto -->
 
 ´´´Python
