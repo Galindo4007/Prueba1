@@ -46,9 +46,9 @@ https://www.markdownguide.org/cheat-sheet/
   
 
 **Listas de tareas** 
-[X] Estudiar
-[] Jugar
-[] ***Tarea***
+- [X] Estudiar
+- [] Jugar
+- [] ***Tarea***
 
 ## Ocultar contenido
 <!-- Este contenido esta oculto -->
