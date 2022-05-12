@@ -29,19 +29,12 @@ https://www.markdownguide.org/cheat-sheet/
 [GitHub Pages](https://i.pinimg.com/originals/e4/99/33/e4993378c11517cb7406d6eedafd169a.jpg)
 
 ## Mapa
-´´´geojson
-{
-  "Type" : "Polygon"
-  "coordinates":
-  [
     [-85, 35],
     [-100.309, 25.6748],
     [-100.309, 25.6714],
     [-101.3562, 20.6767]
     [-85,30]
-  ]
-}
-´´´
+
 
 ##Listas
 **Comida Favorita **
