@@ -26,7 +26,7 @@ https://www.markdownguide.org/cheat-sheet/
 [GitHub Pages](https://experiencia21.tec.mx/)
 
 ## Imagen
-[GitHub Pages](https://i.pinimg.com/originals/e4/99/33/e4993378c11517cb7406d6eedafd169a.jpg)
+![GitHub Pages](https://i.pinimg.com/originals/e4/99/33/e4993378c11517cb7406d6eedafd169a.jpg)
 
 ## Listas
 **Comida Favorita**
